@@ -1,7 +1,7 @@
 # Codibility
 Developer Challenges
 
-# BinaryGap exercise by Codility solution
+# BinaryGap solution. Exercise by Codility.
 
 ```ruby
 #Author: Ikechukwu Onyenwe (my solution)
